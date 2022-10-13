@@ -1,0 +1,15 @@
+Создать таблицу goods (товары) с полями:
+id (уникальное значение, не null)
+title (cтрока максимум 30 символов)
+quantity (число больше 0)
+price
+in_stock (символ (Y/N))
+
+
+create table goods (
+  id int PRIMARY KEY,
+  title varchar(30),
+  quantity int Check(quantity>0),
+  price int(8,2),
+  in_stock char(1) check(in_stock in ('Y','N'))
+);
