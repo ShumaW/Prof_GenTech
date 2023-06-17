@@ -1,5 +1,7 @@
 # Homework General Tech
 
+[HW_12.06.2023](https://github.com/ShumaW/Prof_GenTech/blob/master/HW_20230612_repeat.sql)
+
 [HW_05.06.2023](https://github.com/ShumaW/Prof_GenTech/blob/master/HW_20230605_repeat.sql)
 
 [HW_22.05.2023](https://github.com/ShumaW/Prof_GenTech/blob/master/HW_20230522_repeat.sql)
