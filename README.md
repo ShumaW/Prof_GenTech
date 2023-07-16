@@ -1,5 +1,7 @@
 # Homework General Tech
 
+[HW_10.07.2023](https://github.com/ShumaW/Prof_GenTech/blob/master/HW_20230710_mongo_repeat.txt)
+
 [HW_03.07.2023](https://github.com/ShumaW/Prof_GenTech/blob/master/HW_20230703_repeat.sql)
 
 [HW_26.06.2023](https://github.com/ShumaW/Prof_GenTech/blob/master/HW_20230626_repeat.sql)
